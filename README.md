@@ -1,2 +1,2 @@
 # 20newsgroups
-20newsgroups dataset
+Preprocess script for 20newsgroups dataset
