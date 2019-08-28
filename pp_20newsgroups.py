@@ -1,6 +1,4 @@
-#!/usr/bin/python                                                             
 #-*- coding: utf-8 -*-
-
 """
 Preprocess Script for 20Newsgroups Dataset
 This script removes headers,footers and quotes
